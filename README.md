@@ -11,6 +11,6 @@ usualmente integram diversos módulos, cada um responsável por uma dimensão da
 administração de uma clínica (RH, atendimentos, pedidos de exames, etc.).
 
 O presente trabalho propõe o desenvolvimento de um software desktop de gestão
-de clínicas. O software SIGAC foi feito em java e foi feito juntamente [Enzo Yoshio](https://github.com/enzoyoshio) e [Pedro Maschio](https://github.com/pedro-maschio)
+de clínicas. O software SIGAC foi feito em java e desenvolvido juntamente com [Enzo Yoshio](https://github.com/enzoyoshio) e [Pedro Maschio](https://github.com/pedro-maschio)
 
 ![img1](imgs/sigac.png)
