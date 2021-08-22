@@ -1,5 +1,5 @@
 # Sistema Integrado de Gestão de Atividades Clínicas - SIGAC
-Trabalho final da disciplina Técnicas de Programação 1
+## Trabalho final da disciplina Técnicas de Programação 1
 
 O acesso a saúde é um direito fundamental do ser humano e é garantido pela nossa 
 constituição. Embora nos últimos anos os sistemas de saúde tenham se
